@@ -83,3 +83,6 @@ This project demonstrates the power and practicality of collaborative filtering 
 
 #OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/8f03a481-430e-40f7-abb1-54481f02dc7f)
+
+
